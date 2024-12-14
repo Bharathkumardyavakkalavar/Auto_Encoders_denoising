@@ -61,7 +61,7 @@ After training, the model effectively removes noise from the input images. Below
 - **Top Row**: Noisy images
 - **Bottom Row**: Denoised images
 
-![Denoised Example](example_denoised_images.png)
+![Denoised Example](output.png)
 
 ## Model Summary
 
@@ -91,9 +91,7 @@ Non-trainable params: 0
 _________________________________________________________________
 ```
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributing
 
