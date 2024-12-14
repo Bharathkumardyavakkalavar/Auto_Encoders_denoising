@@ -46,7 +46,7 @@ pip install tensorflow numpy matplotlib
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/denoising-autoencoder.git
+git clone [https://github.com/yourusername/denoising-autoencoder.git](https://github.com/Bharathkumardyavakkalavar/Auto_Encoders_denoising)
 cd denoising-autoencoder
 ```
 
