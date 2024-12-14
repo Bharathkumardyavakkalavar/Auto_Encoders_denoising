@@ -50,7 +50,7 @@ git clone [https://github.com/Bharathkumardyavakkalavar/Auto_Encoders_denoising.
 cd autoencoders_keras.ipynb
 ```
 
-2. Run the Jupyter Notebook file (`denoising_autoencoder.ipynb`) to train the autoencoder and visualize the results.
+2. Run the Jupyter Notebook file (`autoencoders_keras.ipynb`) to train the autoencoder and visualize the results.
 
 3. Save the trained model for future use.
 
